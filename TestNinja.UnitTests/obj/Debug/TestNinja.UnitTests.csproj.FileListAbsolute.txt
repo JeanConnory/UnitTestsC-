@@ -29,3 +29,11 @@ E:\Estudos\Testes\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\Mo
 E:\Estudos\Testes\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\Mono.Cecil.Rocks.dll
 E:\Estudos\Testes\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.dll
 E:\Estudos\Testes\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\nunit.framework.xml
+E:\Estudos\Testes\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\Castle.Core.dll
+E:\Estudos\Testes\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.dll
+E:\Estudos\Testes\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Estudos\Testes\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Estudos\Testes\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\Castle.Core.xml
+E:\Estudos\Testes\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\Moq.xml
+E:\Estudos\Testes\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Estudos\Testes\source-code-starter\TestNinja\TestNinja.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
